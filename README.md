@@ -26,3 +26,4 @@ test (persentase, jumlah data test)
 masing-masing data pada train, validation dan tes berjumlah 40 data
 
 ## Hasil akhir project setelah di deploy ke heroku
+![image](https://user-images.githubusercontent.com/92361807/149866809-03a58071-e31f-4306-99f5-73aa0f79a66c.png)
