@@ -29,5 +29,4 @@ masing-masing data pada train, validation dan tes berjumlah 40 data
 ![image](https://user-images.githubusercontent.com/92361807/149866809-03a58071-e31f-4306-99f5-73aa0f79a66c.png)
 ![image](https://user-images.githubusercontent.com/92361807/149866901-4e7064d1-879f-4290-9444-77812ebeb491.png)
 
-### Link Colab :
 ### Link Heroku : https://mldeploys.herokuapp.com
