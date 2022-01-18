@@ -15,7 +15,7 @@ Kontributor dalam pengerjaan project ini adalah
 Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, pemberian data augmentasi menggunakan image generator
 
 ### Modeling
-Modeling yang digunakan dalam project ini adalah model InceptionResNet50, augmentasi, MaxPooling2D, AveragePooling2D, Hyperparameter, GlobalAveragePooling2D, Flatten,BatchNormalization, Dropout
+Modeling yang digunakan dalam project ini adalah model InceptionResNetV2, augmentasi, MaxPooling2D, AveragePooling2D, Hyperparameter, GlobalAveragePooling2D, Flatten,BatchNormalization, Dropout
 
 ## Overview Dataset
 Jumlah dan persentase splitting dataset :
