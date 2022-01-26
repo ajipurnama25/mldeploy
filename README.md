@@ -30,3 +30,5 @@ masing-masing data pada train, validation dan tes berjumlah 40 data
 ![image](https://user-images.githubusercontent.com/92361807/149866901-4e7064d1-879f-4290-9444-77812ebeb491.png)
 
 ### Link Heroku : https://mldeploys.herokuapp.com
+
+### Link Youtube : https://youtu.be/6D8VSCYmSBU
